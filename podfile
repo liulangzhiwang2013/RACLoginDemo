@@ -1,0 +1,11 @@
+platform :ios , "8.0"
+use_frameworks!
+
+
+target "RACLoginDemo" do
+pod 'ReactiveObjC', '~> 3.1.0'
+end
+
+target "RACChangeColorDemo" do
+    pod 'ReactiveObjC', '~> 3.1.0'
+end

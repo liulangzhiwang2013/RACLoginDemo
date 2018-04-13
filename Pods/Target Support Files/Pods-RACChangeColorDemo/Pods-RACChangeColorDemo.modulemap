@@ -1,0 +1,6 @@
+framework module Pods_RACChangeColorDemo {
+  umbrella header "Pods-RACChangeColorDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
